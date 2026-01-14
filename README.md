@@ -37,14 +37,6 @@ Projeto acadêmico focado na organização e análise de dados acadêmicos.
 
 ---
 
-## 📊 GitHub Stats
-
-![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=iicaroll&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iicaroll&layout=compact&theme=dark)
-
----
-
 ## 📫 Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-dantas-2766b5289/)
