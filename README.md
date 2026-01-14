@@ -1,47 +1,51 @@
-# 👩‍💻 Ana Caroline Dantas
+#  Ana Caroline Dantas
 
-🎓 Estudante de **Engenharia de Software**
-💻 Foco em **desenvolvimento backend com Python**  
-📊 Interesse em **dados, APIs e banco de dados**
-
----
-
-## 🚀 Sobre mim
-
-Sou estudante de Engenharia de Software com foco em backend. Tenho experiência acadêmica em projetos que envolvem **organização e análise de dados**, lógica de programação e estruturação de informações.  
-Participei do projeto **Integralizei**, onde trabalhei diretamente com dados acadêmicos, fortalecendo meu raciocínio lógico e minha base em Python.
-
-Atualmente, busco uma **oportunidade de estágio** para aprender na prática, evoluir tecnicamente e contribuir com a equipe.
+🎓 Estudante de **Engenharia de Software**  
+💻 Foco em **Backend com Python**
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## ✨ Sobre mim
 
-- **Linguagem:** Python  
-- **Backend:** Flask (básico)  
-- **Banco de Dados:** SQL (conceitos), PostgreSQL (noções), MongoDB (noções)  
-- **Conceitos:** Orientação a Objetos, APIs, manipulação de dados  
-- **Versionamento:** Git & GitHub  
+Sou estudante de Engenharia de Software com interesse em desenvolvimento backend.  
+Participei do projeto **Integralizei**, onde trabalhei com organização e análise de dados acadêmicos, aplicando lógica de programação e conceitos fundamentais de backend.
+
+Atualmente busco uma **oportunidade de estágio** para aprender na prática e evoluir tecnicamente.
 
 ---
 
-## 📌 Projetos em destaque
+## 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
+---
+
+## 📌 Projeto em destaque
 
 🔹 **Integralizei**  
-Projeto acadêmico voltado para organização e análise de dados acadêmicos, auxiliando no acompanhamento de métricas e identificação de pendências.
-
-👉 [Acessar repositório](https://github.com/iicaroll)
-
-*(Em evolução — sempre aprimorando com novos aprendizados)*
+Projeto acadêmico focado na organização e análise de dados acadêmicos.
 
 ---
 
-## 📈 Em constante aprendizado
+## 📊 GitHub Stats
 
-- Backend com Python  
-- APIs REST  
-- Banco de dados relacionais e não relacionais  
-- Boas práticas de código  
+![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=iicaroll&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iicaroll&layout=compact&theme=dark)
 
 ---
-⭐ Sinta-se à vontade para explorar meus repositórios!
+
+## 📫 Entre em contato comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-dantas-2766b5289/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iicaroll)
