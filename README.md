@@ -1,7 +1,6 @@
 #  Ana Caroline Dantas
 
 🎓 Estudante de **Engenharia de Software**  
-💻 Foco em **Backend com Python**
 
 ---
 
