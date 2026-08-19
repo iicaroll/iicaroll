@@ -1,4 +1,4 @@
-#  Ana Caroline Dantas
+
 
 🎓 Estudante de **Engenharia de Software**  
 ---
