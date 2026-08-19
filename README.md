@@ -6,10 +6,7 @@
 
 ## ✨ Sobre mim
 
-Sou estudante de Engenharia de Software com interesse em desenvolvimento backend.  
-Participei do projeto **Integralizei**, onde trabalhei com organização e análise de dados acadêmicos, aplicando lógica de programação e conceitos fundamentais de backend.
-
-Atualmente busco uma **oportunidade de estágio** para aprender na prática e evoluir tecnicamente.
+Sou estudante de Engenharia de Software com interesse em desenvolvimento.  
 
 ---
 
@@ -26,13 +23,6 @@ Atualmente busco uma **oportunidade de estágio** para aprender na prática e ev
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-
----
-
-## 📌 Projeto em destaque
-
-🔹 **Integralizei**  
-Projeto acadêmico focado na organização e análise de dados acadêmicos.
 
 ---
 
