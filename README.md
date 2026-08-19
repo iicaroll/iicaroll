@@ -1,13 +1,6 @@
 #  Ana Caroline Dantas
 
 🎓 Estudante de **Engenharia de Software**  
-
----
-
-## ✨ Sobre mim
-
-Sou estudante de Engenharia de Software com interesse em desenvolvimento.  
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
